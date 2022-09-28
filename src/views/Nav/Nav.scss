@@ -1,0 +1,34 @@
+  .topnav {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #000000;
+    height: 80px;
+width: 1920px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+.content {
+  position: absolute;
+left: 40%;
+right: 20%;
+top: 33.33%;
+bottom: 33.33%;
+
+font-family: 'SF Pro Text';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 100%;
+/* or 24px */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+}
