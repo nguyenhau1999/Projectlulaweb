@@ -6,6 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 import Logos from './views/Logos/Logos';
 import Nav from './views/Nav/Nav';
+import Carousel from './views/carousel/Carousel';
 // import Home from './views/Example/Home';
 
 
@@ -19,7 +20,9 @@ function App() {
       <header className="App-header">
       <Nav/>
       <Logos></Logos>
+      <Carousel></Carousel>
       </header>
+      
       
       <ToastContainer
         position="top-right"

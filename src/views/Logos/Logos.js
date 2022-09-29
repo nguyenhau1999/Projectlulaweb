@@ -10,8 +10,8 @@ class Logos extends React.Component {
             return (
                 <>
                 <div>
-                    <img src={logo} className="App-logos" alt="Logos"></img>
-                    <img src={vector} className="App-vector" alt="Vector"></img>
+                    <img src={logo} className="App-logos" alt="Logos"></img>               
+                    <img src={vector} className="App-vector"  alt="Vector"></img>
                     <img src={line} className="App-line" alt="line"></img>
                     <img src={line} className="App-line-2" alt="line"></img>
                     <img src={line} className="App-line-3" alt="line"></img>
